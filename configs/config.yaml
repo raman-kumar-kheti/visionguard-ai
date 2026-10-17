@@ -1,0 +1,15 @@
+dataset:
+  path: dataset
+  category: bottle
+  image_size: 224
+
+model:
+  backbone: resnet18
+  pca_components: 64
+  coreset_sampling_ratio: 0.1
+  version: "1.0.0"
+
+inference:
+  threshold: 1.5
+  heatmap_vmax: 3.0
+  use_openvino: true
