@@ -1,4 +1,4 @@
-# VisionGuard AI (`industrial-vision-inspector`)
+# VisionGuard AI (`visionguard-ai`)
 
 > **Intelligent industrial defect detection** platform built with PatchCore (ResNet18), OpenVINO CPU acceleration, FastAPI, Streamlit, and SQLite inspection history.
 
